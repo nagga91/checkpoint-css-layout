@@ -1,0 +1,177 @@
+.logo-docplanner{
+    width: 268px;
+    height: 33px;
+}
+.container-fluid{
+    zoom: 1;
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+}
+.navbar-nav{
+    position: relative;
+    left: 500px;
+    list-style: none;
+    font-size: .9375rem;
+    font-weight: 400;
+    line-height: 2em;
+    padding: 1.33em 0;
+}
+.navbar-nav a{
+    display: block;
+    text-decoration: none;
+    padding: 0 0.6em;
+}
+#making h1{
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+#three {
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+#patient{
+    position: relative;
+    background: #00ccb1;
+    border-radius: 10px;
+    padding: 10px;
+}
+#patient h1{
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+}
+#patient h2{
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+}
+#doctor{
+    position: relative;
+    left: 100px;
+    background: #3d83df;
+    border-radius: 10px;
+}
+#doctor h1{
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+}
+#doctor h2{
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+}
+#clinic{
+    position: relative;
+    left: 200px;
+    background: #1b2734;
+    border-radius: 10px;
+}
+#clinic h1{
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+}
+#clinic h2{
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+}
+#culture {
+    float: left;
+    font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    color: #00b39b;
+}
+#logos div svg{
+    height: 20px;
+    width: auto;
+    max-width: 100%;
+    padding-left: 10px;
+}
+#block{
+    background: #aef3ea;
+}
+#platform h1{
+    font-size: 1.5rem;
+    color: #00b39b;
+    display: flex;
+}
+#platform p{
+    display: flex;
+    justify-content: flex-start;
+}
+#card1,#card2,#card3,#card4 {
+    background: #fff;
+    position: relative;
+}
+#card1,#card3{
+    top: 20px;
+}
+#card2,#card4{
+    left: 80px;
+}
+h3{
+    font-size: 0.5em;
+    color: #00b39b;
+
+}
+.improve{
+    color: #00b39b;
+    font-size: 2.1428571429em;
+}
+#button{
+    color: #fff;
+    background: #3d83df;
+    left: 40px;
+}
+#city,#button{
+    display: inline-flex;
+    position: relative;
+}
+#city{
+    right: 40px;
+    font-size: 1.125em;
+}
+.btn {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    outline: 0;
+    border: 0;
+    border-radius: 4px;
+    padding: 1.1666666667em 1.5em;
+    background: #3d83df;
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    text-align: center;
+    text-decoration: none!important;
+    text-transform: uppercase;
+    transition: all .2s ease 0s;
+}
+#button1{
+    color: #fff;
+    background: #3d83df;
+}
+.footer{
+    background-color: #dee7e6;
+}
